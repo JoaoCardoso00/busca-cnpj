@@ -37,6 +37,11 @@ Com o ambiente virtual ativado, instale a biblioteca necessária utilizando o pi
 ```bash
 pip install requests
 ```
+ou
+```bash
+pip3 install requests
+```
+
 ## Executando o Projeto
 Para executar o projeto, siga os passos abaixo:
 
