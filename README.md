@@ -47,8 +47,8 @@ Para executar o projeto, siga os passos abaixo:
 
 1. Certifique-se de que o ambiente virtual está ativado.
 2. No diretório do projeto, execute o script consulta_cnpj.py com o comando:
-- Windows: `python consulta_cnpj.py`
-- macOS/Linux: `python3 consulta_cnpj.py`
+- Windows: `python main.py`
+- macOS/Linux: `python3 main.py`
 3. Quando solicitado, insira o CNPJ que deseja consultar e pressione Enter.
 
 O script fará uma consulta à API do ReceitaWS e exibirá os dados da empresa no formato JSON.
